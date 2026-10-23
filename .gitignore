@@ -1,0 +1,32 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE settings
+.idea/
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+pycache/
+*.py[cod]
+.venv/
+venv/
+
+# Django
+db.sqlite3
+staticfiles/
+
+# Flutter and Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Logs
+*.log
