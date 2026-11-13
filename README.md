@@ -17,7 +17,7 @@ Main Actors
 Technology Stack
 - Frontend: Flutter 
 - Backend: Django
-- Database: SQLite
+- Database: PostgreSQL
 
 Project Documentation
 Requirements: "docs/requirements.md"
